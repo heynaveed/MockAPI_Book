@@ -36,9 +36,9 @@
       ],
       "users":[
         {
-           "username":"",
-           "email":"",
-           "timestamp":""
+           "username":"Dummy boy",
+           "email":"dummy@gmail.com",
+           "timestamp":1234567
         }
       ]
 }
